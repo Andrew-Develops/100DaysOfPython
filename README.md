@@ -11,3 +11,5 @@ This is a repository dedicated to logging my journey in learning Python.
 [Day 2](https://github.com/Andrew-Develops/100DaysOfPython/tree/main/Day%202%20-%20Understanding%20Data%20Types%20and%20How%20to%20Manipulate)
 <br>
 [Day 3](https://github.com/Andrew-Develops/100DaysOfPython/tree/main/Day%203%20-%20Control%20Flow%20and%20Logical%20Operators)
+<br>
+[Day 4](https://github.com/Andrew-Develops/100DaysOfPython/tree/main/Day%204%20-%20Randomisation%20and%20Python%20Lists)
