@@ -13,3 +13,5 @@ This is a repository dedicated to logging my journey in learning Python.
 [Day 3](https://github.com/Andrew-Develops/100DaysOfPython/tree/main/Day%203%20-%20Control%20Flow%20and%20Logical%20Operators)
 <br>
 [Day 4](https://github.com/Andrew-Develops/100DaysOfPython/tree/main/Day%204%20-%20Randomisation%20and%20Python%20Lists)
+<br>
+[Day 5](https://github.com/Andrew-Develops/100DaysOfPython/tree/main/Day%205%20-%20Python%20loops)
